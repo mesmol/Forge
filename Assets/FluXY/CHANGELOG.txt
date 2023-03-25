@@ -1,0 +1,27 @@
+# Change Log
+All notable changes to “FluXY - 2.5D fluid simulator” will be documented in this file.
+
+## [1.2.0] - 2022-01-20
+
+### Added
+- Tangent space simulation.
+- Support for arbitrary meshes in containers: no longer restricted to a rectangular plane.
+- Support for container surface normal maps.
+- Per-pixel gravity.
+- Fluid adhesion (causes a fraction of the fluid to stick to the container's surface)
+- Fluid surface tension (causes fluid to form rounded "drops")
+- Target rotation can now be derived from transform rotation.
+- Targets can now splat both linear and angular velocity
+
+### Fixed
+- Aspect ratio of targets was incorrectly rounded to integer values.
+
+## [1.1.0] - 2021-12-03
+
+### Added
+- Support for subdivided container meshes.
+- New URP-specific sample scenes.
+- URP opaque and transparent ShaderGraph shaders, driven using FluXY.
+
+## [1.0.0] - 2021-09-27
+- Initial release.
