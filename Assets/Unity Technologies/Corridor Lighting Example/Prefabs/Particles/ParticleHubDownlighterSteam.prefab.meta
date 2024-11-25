@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4b68a56dee1f1d34fb3669c66005e625
+timeCreated: 1462951334
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 33630
+  packageName: Corridor Lighting Example
+  packageVersion: 3.1.0
+  assetPath: Assets/Unity Technologies/Corridor Lighting Example/Prefabs/Particles/ParticleHubDownlighterSteam.prefab
+  uploadId: 499208

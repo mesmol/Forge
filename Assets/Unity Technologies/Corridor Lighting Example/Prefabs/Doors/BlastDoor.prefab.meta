@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 622576e1a8c62dd4282a889143ec1169
+timeCreated: 1463145862
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 33630
+  packageName: Corridor Lighting Example
+  packageVersion: 3.1.0
+  assetPath: Assets/Unity Technologies/Corridor Lighting Example/Prefabs/Doors/BlastDoor.prefab
+  uploadId: 499208

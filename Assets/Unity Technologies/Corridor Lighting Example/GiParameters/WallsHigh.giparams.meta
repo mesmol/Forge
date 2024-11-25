@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7f5928d85806de2428b1a85ccf14628e
+timeCreated: 1462550424
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 33630
+  packageName: Corridor Lighting Example
+  packageVersion: 3.1.0
+  assetPath: Assets/Unity Technologies/Corridor Lighting Example/GiParameters/WallsHigh.giparams
+  uploadId: 499208

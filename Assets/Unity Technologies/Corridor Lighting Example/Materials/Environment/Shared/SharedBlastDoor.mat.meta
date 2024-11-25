@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a7f5333464b3dc645b7e71d4f47a26e9
+timeCreated: 1457018764
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 33630
+  packageName: Corridor Lighting Example
+  packageVersion: 3.1.0
+  assetPath: Assets/Unity Technologies/Corridor Lighting Example/Materials/Environment/Shared/SharedBlastDoor.mat
+  uploadId: 499208

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 524f309c22e2cfe4890a216e476d753b
+timeCreated: 1462807775
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 33630
+  packageName: Corridor Lighting Example
+  packageVersion: 3.1.0
+  assetPath: Assets/Unity Technologies/Corridor Lighting Example/Prefabs/Particles/ParticlesVentSteamDark.prefab
+  uploadId: 499208

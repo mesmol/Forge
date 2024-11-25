@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 54666f5c40fca714cbc9af15d2d8bfa2
+timeCreated: 1462963800
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 33630
+  packageName: Corridor Lighting Example
+  packageVersion: 3.1.0
+  assetPath: Assets/Unity Technologies/Corridor Lighting Example/Prefabs/Particles/ParticleHallwayGroundFog.prefab
+  uploadId: 499208

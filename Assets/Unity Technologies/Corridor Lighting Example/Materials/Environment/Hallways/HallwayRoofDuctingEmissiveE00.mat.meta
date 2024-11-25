@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f860860933567954089b2e74b4ef0309
+timeCreated: 1457547007
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 33630
+  packageName: Corridor Lighting Example
+  packageVersion: 3.1.0
+  assetPath: Assets/Unity Technologies/Corridor Lighting Example/Materials/Environment/Hallways/HallwayRoofDuctingEmissiveE00.mat
+  uploadId: 499208

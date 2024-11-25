@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3abce2075e5d0c34bba92b6f7aa71325
+timeCreated: 1457446719
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 33630
+  packageName: Corridor Lighting Example
+  packageVersion: 3.1.0
+  assetPath: Assets/Unity Technologies/Corridor Lighting Example/Materials/Environment/Hallways/HallwayWallsSidelightEmissive.mat
+  uploadId: 499208

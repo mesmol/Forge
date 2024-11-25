@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5bbb1e49aa57c18428a5dc6808c598ee
+timeCreated: 1462808192
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 33630
+  packageName: Corridor Lighting Example
+  packageVersion: 3.1.0
+  assetPath: Assets/Unity Technologies/Corridor Lighting Example/Prefabs/Particles/ParticlesVentSteamOrangeDark.prefab
+  uploadId: 499208

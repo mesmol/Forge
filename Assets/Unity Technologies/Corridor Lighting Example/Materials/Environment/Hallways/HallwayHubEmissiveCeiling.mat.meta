@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5d0d9771bc6cb514b991edbb8e0484de
+timeCreated: 1457534519
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 33630
+  packageName: Corridor Lighting Example
+  packageVersion: 3.1.0
+  assetPath: Assets/Unity Technologies/Corridor Lighting Example/Materials/Environment/Hallways/HallwayHubEmissiveCeiling.mat
+  uploadId: 499208

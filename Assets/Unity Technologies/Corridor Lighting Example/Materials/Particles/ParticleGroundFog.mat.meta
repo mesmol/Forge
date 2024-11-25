@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 98208ca6b2480904bb1ba49d78485d05
+timeCreated: 1456415221
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 33630
+  packageName: Corridor Lighting Example
+  packageVersion: 3.1.0
+  assetPath: Assets/Unity Technologies/Corridor Lighting Example/Materials/Particles/ParticleGroundFog.mat
+  uploadId: 499208

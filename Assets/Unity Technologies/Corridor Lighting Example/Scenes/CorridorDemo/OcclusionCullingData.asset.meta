@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5d42c1555f5351841b6509e46123b542
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 36300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 33630
+  packageName: Corridor Lighting Example
+  packageVersion: 3.1.0
+  assetPath: Assets/Unity Technologies/Corridor Lighting Example/Scenes/CorridorDemo/OcclusionCullingData.asset
+  uploadId: 499208

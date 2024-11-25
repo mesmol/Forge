@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8517d060335f7de45b7f6d2e3a4ab499
+timeCreated: 1456238381
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 33630
+  packageName: Corridor Lighting Example
+  packageVersion: 3.1.0
+  assetPath: Assets/Unity Technologies/Corridor Lighting Example/Materials/Particles/ParticleLightSmoke.mat
+  uploadId: 499208

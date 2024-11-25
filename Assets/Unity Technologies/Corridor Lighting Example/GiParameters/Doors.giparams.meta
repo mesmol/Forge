@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f297d164299ef4f4c82c76e747011af6
+timeCreated: 1462550874
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 33630
+  packageName: Corridor Lighting Example
+  packageVersion: 3.1.0
+  assetPath: Assets/Unity Technologies/Corridor Lighting Example/GiParameters/Doors.giparams
+  uploadId: 499208

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9f93f63d068b08c459038c40fce897d8
+timeCreated: 1427463081
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 33630
+  packageName: Corridor Lighting Example
+  packageVersion: 3.1.0
+  assetPath: Assets/Unity Technologies/Corridor Lighting Example/PhysicsMaterials/Bouncy.physicmaterial
+  uploadId: 499208

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6cfc72e99f256cb489c84398535f272d
+timeCreated: 1424985110
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 33630
+  packageName: Corridor Lighting Example
+  packageVersion: 3.1.0
+  assetPath: Assets/Unity Technologies/Corridor Lighting Example/Prefabs/Cameras/MainCamera.prefab
+  uploadId: 499208

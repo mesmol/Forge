@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 06c5246f85f979340bc28a1e84d57f94
+timeCreated: 1453817966
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 33630
+  packageName: Corridor Lighting Example
+  packageVersion: 3.1.0
+  assetPath: Assets/Unity Technologies/Corridor Lighting Example/Materials/Environment/Hallways/HallwayElevatorDoorWhite.mat
+  uploadId: 499208

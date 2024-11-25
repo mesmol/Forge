@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: aab91c2533db9444db5df8174d51fc3a
+timeCreated: 1456397578
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 33630
+  packageName: Corridor Lighting Example
+  packageVersion: 3.1.0
+  assetPath: Assets/Unity Technologies/Corridor Lighting Example/Prefabs/Particles/ParticlesVentSteamBright.prefab
+  uploadId: 499208
