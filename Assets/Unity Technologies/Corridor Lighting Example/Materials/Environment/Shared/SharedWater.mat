@@ -25,12 +25,11 @@ Material:
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
-  - _EMISSION
   - _SPECULAR_SETUP
   - _SURFACE_TYPE_TRANSPARENT
   m_InvalidKeywords:
   - _LIGHTMAPPING_REALTIME
-  m_LightmapFlags: 1
+  m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: 3000
@@ -128,7 +127,7 @@ Material:
     - _Parallax: 0.02
     - _QueueOffset: 0
     - _ReceiveShadows: 1
-    - _Smoothness: 0.98
+    - _Smoothness: 0.905
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
@@ -138,10 +137,10 @@ Material:
     - _WorkflowMode: 0
     - _ZWrite: 0
     m_Colors:
-    - _BaseColor: {r: 0.12635669, g: 0.21452081, b: 0.30147672, a: 0.30980393}
-    - _Color: {r: 0.12635666, g: 0.21452078, b: 0.3014767, a: 0.30980393}
+    - _BaseColor: {r: 0.012682447, g: 0.27166045, b: 0.5377358, a: 0.13333334}
+    - _Color: {r: 0.012682447, g: 0.27166042, b: 0.53773576, a: 0.13333334}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 0}
     - _EmissionColorUI: {r: 1, g: 1, b: 1, a: 1}
-    - _SpecColor: {r: 0.29333767, g: 0.21723615, b: 0.30147058, a: 1}
+    - _SpecColor: {r: 0.6179246, g: 0.86031646, b: 1, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1

@@ -137,6 +137,7 @@ Material:
     - _EmissionColor: {r: 4, g: 2.6693711, b: 1.6470585, a: 1}
     - _EmissionColorUI: {r: 0, g: 0, b: 0, a: 1}
     - _EmissionColorWithMapUI: {r: 0.99999994, g: 0, b: 0, a: 1}
+    - _FogBounds: {r: 0, g: 0, b: 0, a: 0}
     - _SpecColor: {r: 0.9338235, g: 0.9338235, b: 0.9338235, a: 1}
     - _SpecularColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
   m_BuildTextureStacks: []

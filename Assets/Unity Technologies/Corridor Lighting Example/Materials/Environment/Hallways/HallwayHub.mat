@@ -29,12 +29,8 @@ Material:
   - _METALLICSPECGLOSSMAP
   - _NORMALMAP
   - _OCCLUSIONMAP
-  - _SPECGLOSSMAP
   - _SPECULAR_SETUP
-  m_InvalidKeywords:
-  - _EMISSIONMAP
-  - _LIGHTMAPPING_DYNAMIC_LIGHTMAPS
-  - _UVSEC_UV1
+  m_InvalidKeywords: []
   m_LightmapFlags: 2
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -139,6 +135,7 @@ Material:
     - _Mode: 0
     - _OcclusionStrength: 0.7
     - _Parallax: 0.02
+    - _QueueControl: 0
     - _QueueOffset: 0
     - _ReceiveShadows: 1
     - _Smoothness: 0
@@ -156,6 +153,7 @@ Material:
     - _EmissionColor: {r: 3.0721774, g: 2.8548064, b: 2.8727708, a: 1}
     - _EmissionColorUI: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColorWithMapUI: {r: 0.80645907, g: 0.8714095, b: 0.89411765, a: 1}
+    - _FogBounds: {r: 0, g: 17.7, b: 0, a: 0}
     - _MetaDiffuseAdd: {r: 0, g: 0, b: 0, a: 1}
     - _MetaDiffuseTint: {r: 1, g: 1, b: 1, a: 1}
     - _MetaEmissionAdd: {r: 0, g: 0, b: 0, a: 1}

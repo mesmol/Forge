@@ -5217,8 +5217,8 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 11667.0,
-            "y": 1735.9998779296875,
+            "x": 11638.9990234375,
+            "y": 1736.0,
             "width": 142.0,
             "height": 33.9998779296875
         }
@@ -7428,9 +7428,9 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 12583.9990234375,
-            "y": 1735.9998779296875,
-            "width": 208.0009765625,
+            "x": 12653.0,
+            "y": 1500.9998779296875,
+            "width": 208.0,
             "height": 302.0
         }
     },
@@ -8420,7 +8420,7 @@
     "m_ObjectId": "a8bfff26690b400b84b6882421f41f80",
     "m_Title": "Fresnel Interaction",
     "m_Position": {
-        "x": 10970.0,
+        "x": 10981.0,
         "y": 1006.0
     }
 }
@@ -9698,8 +9698,8 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 10995.0,
-            "y": 1652.0001220703125,
+            "x": 11005.9990234375,
+            "y": 1702.0,
             "width": 127.0,
             "height": 34.0
         }
@@ -10573,10 +10573,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 11215.0,
-            "y": 1317.0,
+            "x": 11196.9990234375,
+            "y": 1309.9998779296875,
             "width": 208.0,
-            "height": 315.0
+            "height": 315.0001220703125
         }
     },
     "m_Slots": [
